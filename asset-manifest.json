@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vezbaAuth/static/css/main.f072c70a.chunk.css",
+    "main.js": "/vezbaAuth/static/js/main.fb358b5b.chunk.js",
+    "main.js.map": "/vezbaAuth/static/js/main.fb358b5b.chunk.js.map",
+    "runtime-main.js": "/vezbaAuth/static/js/runtime-main.ad1c07d1.js",
+    "runtime-main.js.map": "/vezbaAuth/static/js/runtime-main.ad1c07d1.js.map",
+    "static/js/2.e48ddb93.chunk.js": "/vezbaAuth/static/js/2.e48ddb93.chunk.js",
+    "static/js/2.e48ddb93.chunk.js.map": "/vezbaAuth/static/js/2.e48ddb93.chunk.js.map",
+    "index.html": "/vezbaAuth/index.html",
+    "precache-manifest.2f8f7d61a12b57b9ba6025d43b18ea99.js": "/vezbaAuth/precache-manifest.2f8f7d61a12b57b9ba6025d43b18ea99.js",
+    "service-worker.js": "/vezbaAuth/service-worker.js",
+    "static/css/main.f072c70a.chunk.css.map": "/vezbaAuth/static/css/main.f072c70a.chunk.css.map",
+    "static/js/2.e48ddb93.chunk.js.LICENSE.txt": "/vezbaAuth/static/js/2.e48ddb93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad1c07d1.js",
+    "static/js/2.e48ddb93.chunk.js",
+    "static/css/main.f072c70a.chunk.css",
+    "static/js/main.fb358b5b.chunk.js"
+  ]
+}
